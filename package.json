@@ -1,0 +1,16 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "clone database from shopwheydanang.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "loaloa.me",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "mongoose": "^5.8.11",
+    "quill": "^1.3.6"
+  }
+}
